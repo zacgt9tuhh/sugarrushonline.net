@@ -1,0 +1,19 @@
+{
+    "name": "Sugar Rush 1000 Casino Game | Play & Win Big Online",
+    "short_name": "Sugar Rush 1000 Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Sugar Rush 1000 Casino Game \u2013 Spin for cash and style in Canada | Sugar Rush 1000 Game offers fun, music, and big wins | Play now securely",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
